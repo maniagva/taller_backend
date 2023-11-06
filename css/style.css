@@ -15,11 +15,12 @@ form {
 }
 
 label {
+    display: block;
     font-weight: bold;
     margin-top: 10px;
 }
 
-input[type="number"] {
+input {
     width: 95%;
     padding: 10px;
     margin: 5px 0;
